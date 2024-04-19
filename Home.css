@@ -1,0 +1,93 @@
+
+
+.card img
+{
+   
+    height: 400px;
+}
+.head-text
+{
+    position: absolute;
+    left: 40%;
+    right: 40%;
+    top:0%;
+}
+center
+{
+    margin: 20px;
+}
+.sec-head
+{
+  margin-top:100px;
+}
+.home-footer
+{
+    padding: 40px;
+    margin-top:200px;
+    background-color:aliceblue;
+}
+.copryt
+{
+    background-color: black;
+    color: white;
+    padding: 0px;
+    margin-top: 10px;
+}
+ul{
+    list-style-type: none;
+}
+
+a
+{
+    text-decoration: none;
+    color: black;
+}
+.home-footer img{
+    width:60px;
+    height:40px;
+}
+
+
+.contact-footer
+{
+    padding: 40px;
+    margin-top:100px;
+    background-color:aliceblue;
+}
+.contact-footer img{
+    width:60px;
+    height:40px;
+}
+.service-head img{
+    width:100%;
+}
+.card{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.about-cont
+{
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+.about-cont img{
+    height: 600px;
+}
+.about-cont ul
+{
+    list-style-type: circle;
+    padding: 10px;
+    
+}
+.about-cont li{
+    margin: 10px;
+}
+.about-footer
+{
+    padding: 40px;
+    margin-top:50px;
+    background-color:aliceblue;
+}
+.about-footer img{
+    width:60px;
+    height:40px;
+}
